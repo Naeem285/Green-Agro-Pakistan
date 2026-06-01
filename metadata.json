@@ -1,0 +1,8 @@
+{
+  "name": " Green Agro Pakistan",
+  "description": "Offline-first premium agriculture portal for Pakistani farmers, traders, and administrators. here the calcuter shoud work perfectly and in dashboard screen you should renname it home screen and  add there sign in option trader farmer and main admin and remove ai writings like made by ggole ai studio etc instead write it developer muhamad naeem akram and he is main admin no need to register for himself he had anything acess and 3620186200313 and 030177na will be his identy and weather system is not working correctly add cites like Lodhran MUltan Mailsi Vehari in the weaher system .calcuter app should show correct mounds and kgs it should be very efficient ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
